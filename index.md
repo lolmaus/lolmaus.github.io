@@ -6,8 +6,7 @@ title: Andrey Mikhaylov (@lolmaus)
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
 
-Frontend / EmberJS developer  
-Happily employed in [Firecracker.me](http://firecracker.me)
+Frontend / EmberJS developer @ [Firecracker.me](http://firecracker.me)
 
 <a href="https://lh6.googleusercontent.com/-4ENOZ8Xdj2o/UxWmM8GNMAI/AAAAAAAAVdM/Sqs32iYy6kw06dELWKO1wfIFzUd4G-X_gCL0B/s630-no/yoshi.jpg">
   <img width="100" height="100" src="https://lh6.googleusercontent.com/-4ENOZ8Xdj2o/UxWmM8GNMAI/AAAAAAAAVdM/Sqs32iYy6kw06dELWKO1wfIFzUd4G-X_gCL0B/s630-no/yoshi.jpg">
