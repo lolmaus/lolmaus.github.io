@@ -16,7 +16,7 @@ Happily employed in [Firecracker.me](http://firecracker.me)
   <img width="100" height="100" src="https://avatars2.githubusercontent.com/u/200884?v=3&s=460">
 </a>
 
-Both are pics of me. In real life I look something in between. :wink:
+Both are pics of me. In real life I look something in between. :trollface:
 
 
 
@@ -27,6 +27,8 @@ Me on the Web
   [https://github.com/lolmaus](https://github.com/lolmaus)
 * <img width="16" height="16" src="http://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056">
   [https://twitter.com/lolmaus_en](https://twitter.com/lolmaus_en)
+* <img width="16" height="16" src="http://files.quickmediasolutions.com/so-images/stackoverflow.png">
+  [http://stackoverflow.com/users/901944/](http://stackoverflow.com/users/901944/)
 * <img width="16" height="16" src="https://avatars1.githubusercontent.com/gitterHQ?&s=96">
   [https://gitter.im/lolmaus](https://gitter.im/lolmaus)
 * <img width="16" height="16" src="http://emberjs.com/images/favicon.png">
@@ -44,7 +46,7 @@ Go and star projects that you use, it means a lot to us devs! :bow:
 ### Sass
 
 * <a class="github-button" href="https://github.com/lolmaus/breakpoint-slicer" data-icon="octicon-star" data-count-href="/lolmaus/breakpoint-slicer/stargazers" data-count-api="/repos/lolmaus/breakpoint-slicer#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star lolmaus/breakpoint-slicer on GitHub"></a>
-  [Breakpoint Slicer](https://github.com/lolmaus/breakpoint-slicer) -- slicing media queries with ease.
+  [breakpoint-slicer](https://github.com/lolmaus/breakpoint-slicer) -- slicing media queries with ease.
 * <a class="github-button" href="https://github.com/lolmaus/singularity-quick-spanner" data-icon="octicon-star" data-count-href="/lolmaus/singularity-quick-spanner/stargazers" data-count-api="/repos/lolmaus/singularity-quick-spanner#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star lolmaus/singularity-quick-spanner on GitHub"></a>
 [singularity-quick-spanner](https://github.com/lolmaus/singularity-quick-spanner) -- A collection of handy shortcut mixins for the Singularity grid system
 
@@ -76,7 +78,7 @@ Go and star projects that you use, it means a lot to us devs! :bow:
 ##### Work in Progress
 
 * [yuidork](https://github.com/lolmaus/yuidork) -- View YUIDoc docs for any project and branch/tag/commit, fresh from GitHub.
-* [taskaparilla](https://github.com/lolmaus/taskaparilla-stamplay-client) -- a hierarchical todo app with support.
+* [taskaparilla](https://github.com/lolmaus/taskaparilla-stamplay-client) -- a hierarchical todo app with difficulty calculation.
 
 
 ### JS Libraries
