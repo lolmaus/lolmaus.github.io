@@ -56,6 +56,8 @@ Go and star projects that you use, it means a lot to us devs! :bow:
   [ember-element-query](https://github.com/lolmaus/ember-element-query) -- element query solution for your Ember apps.
 * <a class="github-button" href="https://github.com/lolmaus/ember-svg-pie" data-icon="octicon-star" data-count-href="/lolmaus/ember-svg-pie/stargazers" data-count-api="/repos/lolmaus/ember-svg-pie#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star lolmaus/ember-svg-pie on GitHub"></a>
   [ember-svg-pie](https://github.com/lolmaus/ember-svg-pie) -- an extremely simple SVG pie chart component.
+* <a class="github-button" href="https://github.com/lolmaus/ember-scroll-to-mk2" data-icon="octicon-star" data-count-href="/lolmaus/ember-scroll-to-mk2/stargazers" data-count-api="/repos/lolmaus/ember-scroll-to-mk2#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star lolmaus/ember-scroll-to-mk2 on GitHub"></a>
+  [ember-scroll-to-mk2](https://github.com/lolmaus/ember-scroll-to-mk2) -- A link/button component that performs scrolling to given selector.
 * <a class="github-button" href="https://github.com/lolmaus/ember-cli-custom-assertions-collection" data-icon="octicon-star" data-count-href="/lolmaus/ember-cli-custom-assertions-collection/stargazers" data-count-api="/repos/lolmaus/ember-cli-custom-assertions-collection#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star lolmaus/ember-cli-custom-assertions-collection on GitHub"></a>
   [ember-cli-custom-assertions-collection](https://github.com/lolmaus/ember-cli-custom-assertions-collection) -- a set of custom assertions, aiming to substitue Chai in QUnit world. Go add you own assertions!
 
