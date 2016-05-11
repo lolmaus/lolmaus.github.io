@@ -15,7 +15,7 @@ Frontend / EmberJS developer @ [Firecracker.me](http://firecracker.me)
   <img width="100" height="100" src="https://avatars2.githubusercontent.com/u/200884?v=3&s=460">
 </a>
 
-Both are pics of me. In real life I look something in between. :trollface:
+Both are pics of me. In real life I look like something in between. :trollface:
 
 
 
