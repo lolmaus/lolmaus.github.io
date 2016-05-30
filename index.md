@@ -60,6 +60,8 @@ Go and star projects that you use, it means a lot to us devs! :bow:
   [ember-scroll-to-mk2](https://github.com/lolmaus/ember-scroll-to-mk2) -- A link/button component that performs scrolling to given selector.
 * <a class="github-button" href="https://github.com/lolmaus/ember-cli-custom-assertions-collection" data-icon="octicon-star" data-count-href="/lolmaus/ember-cli-custom-assertions-collection/stargazers" data-count-api="/repos/lolmaus/ember-cli-custom-assertions-collection#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star lolmaus/ember-cli-custom-assertions-collection on GitHub"></a>
   [ember-cli-custom-assertions-collection](https://github.com/lolmaus/ember-cli-custom-assertions-collection) -- a set of custom assertions, aiming to substitue Chai in QUnit world. Go add you own assertions!
+* <a class="github-button" href="https://github.com/firecracker/ember-katex" data-icon="octicon-star" data-count-href="/firecracker/ember-katex/stargazers" data-count-api="/repos/firecracker/ember-katex#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star firecracker/ember-katex on GitHub"></a>
+  [ember-katex](https://github.com/firecracker/ember-katex) -- Render your LaTeX formulas using KaTeX.
 
 ##### Work in Progress
 
